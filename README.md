@@ -87,7 +87,7 @@
   <br>
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
 	<br>
-   - GitHub Cool GIFs by <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">DenverCoder1</a>
+   - GitHub Cool GIFs by <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Anmol-Baranwal</a>
   <br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
   <br>
