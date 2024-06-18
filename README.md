@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone! &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-
-<h3 align="center">
-  FullStack Developer • Data Analyst 
-</h3>
+<h2>
+	My name is Matheus, a FullStack Developer • Data Analyst
+</h2>
 
 <div align='center'>
 
@@ -29,10 +28,10 @@
 
 ## About me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Matheus D. Santos, I'm a FullStack Developer and Data Analyst. I'm currencly Graduating in Information Sytem. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Developer and Data Analyst.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Python but I'm really into Java and Flutter nowadays.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and working in team.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Matheus D. Santos, I'm a FullStack Developer and Data Analyst. I'm currently graduating in Information Systems. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to become a Software Developer and Data Analyst.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Python, but I'm really into Java and Flutter nowadays.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always do my best when I'm working on something and try to help as much as possible.<br />
 
 ## 📌 &nbsp;Pinned Repositories
 
@@ -45,27 +44,27 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/MatheusDSantossi/angular-playground">
-      <img src="./.github/assets/icons/angular.webp" />
+			<a href="https://github.com/MatheusDSantossi/projeto-IHM">
+      <img src="./.github/assets/icons/humanoid.png" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Playground</h3>
-			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/MatheusDSantossi/angular-playground">
+			<h3>Projeto de IHM</h3>
+			<p>A game that I've developed through a discipline at college.</p>
+			<a href="https://github.com/MatheusDSantossi/projeto-IHM">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/MatheusDSantossi/angular-blog">
-      <img src="./.github/assets/documentation.png" />
+			<a href="https://github.com/MatheusDSantossi/flutter-project">
+      <img src="./.github/assets/icons/flutter_icon.png" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Blog</h3>
-			<p>An Simple blog with Angular, good pratices for folder structure.</p>
+			<h3>Flutter Project</h3>
+			<p>An incredible project made in Flutter.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -87,4 +86,6 @@
    - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
   <br>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  <br>
+  - Some vectors and images also got at <a href="https://www.flaticon.com/"> www.flaticon.com</a>
 </details>
