@@ -93,3 +93,6 @@
   <br>
   - Some vectors and images also got at <a href="https://www.flaticon.com/"> www.flaticon.com</a>
 </details>
+
+![snake gif](https://github.com/MatheusDSantossi/MatheusDSantossi/blob/output/github-snake-dark.svg)
+
