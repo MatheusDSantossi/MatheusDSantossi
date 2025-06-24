@@ -50,3 +50,5 @@ Passionate Full‑Stack Developer and Data Analyst with a degree in Information 
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.”*
+
+![snake gif](https://github.com/MatheusDSantossi/MatheusDSantossi/blob/output/github-snake-dark.svg)
