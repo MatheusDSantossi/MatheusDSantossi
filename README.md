@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Matheus Santos
 
-**Full‑Stack Developer & Data Analyst**
+**Software Developer & Data Analyst**
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-Passionate Full‑Stack Developer and Data Analyst with a degree in Information Systems (UFRPE). I build scalable web applications, automate data workflows, and contribute to open‑source projects. My favorite technologies include Python, Django, React, Java, and SQL.
+Passionate Software Developer and Data Analyst with a degree in Information Systems (UFRPE). I build scalable web and cross-platform applications, from dynamic websites to AI-driven chatbots, I also automate data workflows, and contribute to open‑source projects. Enthusiastic about data science and AI, I work daily with technologies like Python, Django, React, Java, and SQL.
 
 ## 🔧 Tech Stack & Tools
 
