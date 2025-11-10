@@ -124,7 +124,7 @@ Cross-platform mobile application with Firebase integration and real-time featur
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDSantossi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusDSantossi&show_icons=true&theme=dark" alt="Matheus GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDSantossi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
