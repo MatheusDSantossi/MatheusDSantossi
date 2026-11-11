@@ -3,168 +3,60 @@
 </div>
 
 <div align="center">
-  
-# 👋 Hi, I'm Matheus Santos
 
-### Full Stack Developer | Data Enthusiast | AI Explorer
+# Hi, I'm Matheus Santos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheussantossi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://3d-website-portfolio-odv6ugmri-matheus-d-santos-projects.vercel.app/)
+### Full-stack developer building AI-powered products, with a focus on backend systems and applied ML
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-matheusdsantosr.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.matheusdsantosr.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussantossi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdsantosr.si@gmail.com)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matheusdsantosr)
-
-<!-- <img src="https://komarev.com/ghpvc/?username=MatheusDSantossi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" /> -->
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```typescript
-const matheus = {
-    location: "Brazil 🇧🇷",
-    education: "Information Systems @ UFRPE",
-    currentFocus: ["AI & Machine Learning", "Full Stack Development", "Data Science"],
-    challenge: "Building scalable solutions that bridge technology and real-world impact",
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
+I have about three years of professional experience building web applications end to end: React and TypeScript interfaces, Python and Node.js APIs, PostgreSQL schemas, and the Docker and CI setup that ships them. Lately my work centers on products where an ML model is one component of a real system, not the whole demo: retrieval over a product catalog, pose estimation running locally on a laptop.
 
-Passionate about creating **elegant solutions** to complex problems. I specialize in building:
-- 🌐 **Scalable web applications** with modern frameworks
-- 📱 **Cross-platform mobile apps** that users love
-- 🤖 **AI-driven solutions** and intelligent chatbots
-- 📊 **Data pipelines** that automate and optimize workflows
+I care about the parts that make software trustworthy: secrets kept out of the repo, permissions that fail closed, migrations that replay on an empty database, and READMEs that state the limitations.
+
+## Currently
+
+- Building **Epocra**, a storytelling platform built around microtransactions (private for now)
+- Going deeper on backend architecture, distributed systems, and applied ML
+- Open to mid-senior full-stack and backend roles, including remote and international teams
 
 ---
 
-## 🛠️ Tech Arsenal
+## Featured work
 
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**Hecate**](https://github.com/MatheusDSantossi/hecate-chatbot) | Multi-tenant AI chatbot for retail catalogs. Two-stage retrieval: Postgres trigram search for candidates, Gemini embeddings for reranking, answers grounded in each store's own data. Fail-closed API permissions, CI that replays migrations on an empty database. | Django REST, PostgreSQL, Gemini, React, TypeScript, Docker |
+| [**PostureGuard**](https://github.com/MatheusDSantossi/posture-guard) | Local-first desktop app that tracks posture through the webcam with MediaPipe and alerts on sustained slouching. Calibrates to your own baseline and never stores a frame. Linted and tested in CI, shipped as a versioned Windows build. | Python, MediaPipe, OpenCV, PyInstaller |
+| [**Hecate landing page**](https://github.com/MatheusDSantossi/hecate-landing-page) | Marketing site for Hecate: animated, responsive, with a validated contact form. | React 19, TypeScript, Tailwind CSS 4, Framer Motion, zod |
 
 ---
 
-## 🎯 Featured Projects
+## Stack
 
-<div align="center">
+**Backend:** Python (Django, Django REST Framework), Node.js, Java, PostgreSQL, MySQL, REST API design, token and OAuth authentication
 
-<table>
-<tr>
-<td width="50%">
+**Frontend:** TypeScript, React, Tailwind CSS, Framer Motion, Three.js / React Three Fiber, Angular, Flutter
 
-### 🎮 IHM Block Puzzle
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/MatheusDSantossi/projeto-IHM)
+**AI / ML:** Gemini API (generation and embeddings), semantic search, spaCy, scikit-learn, pandas, MediaPipe, OpenCV
 
-Interactive block-puzzle game with clean UI and smooth gameplay mechanics. Developed as an academic project showcasing Java proficiency.
-
-**Tech:** `Java` `Swing` `OOP`
-
-</td>
-<td width="50%">
-
-### 🌐 3D Portfolio
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/MatheusDSantossi/3D-website-portfolio)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel)](https://3d-website-portfolio-odv6ugmri-matheus-d-santos-projects.vercel.app/)
-
-Immersive 3D portfolio experience featuring interactive elements and smooth animations.
-
-**Tech:** `React` `Three.js` `WebGL`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Hecate Chatbot
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/MatheusDSantossi/hecate-landing-page)
-
-AI-powered consumer chatbot with elegant landing page and natural language processing capabilities.
-
-**Tech:** `Python` `React` `NLP`
-
-</td>
-<td width="50%">
-
-### 📱 Flutter Mobile App
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)](https://github.com/MatheusDSantossi/flutter-project)
-
-Cross-platform mobile application with Firebase integration and real-time features.
-
-**Tech:** `Flutter` `Dart` `Firebase`
-
-</td>
-</tr>
-</table>
-
-</div>
+**Tooling:** Docker and Docker Compose, GitHub Actions, Git, Figma
 
 ---
 
-## 📈 GitHub Analytics
+## Education
+
+Information Systems, Universidade Federal Rural de Pernambuco (UFRPE), Brazil. Undergraduate thesis: Hecate.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusDSantossi&show_icons=true&theme=dark" alt="Matheus GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDSantossi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusDSantossi&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusDSantossi&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎓 Achievements & Contributions
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MatheusDSantossi&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-**📧 Email:** [matheusdsantosr.si@gmail.com](mailto:matheusdsantosr.si@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/matheussantossi](https://linkedin.com/in/matheussantossi)  
-**🎨 Behance:** [behance.net/matheusdsantosr](https://www.behance.net/matheusdsantosr)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Code is poetry written in logic"
 
 <img src="./assets/wave.svg" width="100%" alt="wave decorative image">
 
